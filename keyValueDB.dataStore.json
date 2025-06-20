@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "68550249b9a74791e86c4bd0"
+  },
+  "key": "name",
+  "value": "Muh Ilham"
+},
+{
+  "_id": {
+    "$oid": "68550249b9a74791e86c4bd1"
+  },
+  "key": "age",
+  "value": 22
+},
+{
+  "_id": {
+    "$oid": "68550249b9a74791e86c4bd2"
+  },
+  "key": "city",
+  "value": "Majene"
+},
+{
+  "_id": {
+    "$oid": "68550249b9a74791e86c4bd3"
+  },
+  "key": "university",
+  "value": "Universitas Sulawesi Barat"
+},
+{
+  "_id": {
+    "$oid": "68550249b9a74791e86c4bd4"
+  },
+  "key": "status",
+  "value": "Mahasiswa"
+}]
